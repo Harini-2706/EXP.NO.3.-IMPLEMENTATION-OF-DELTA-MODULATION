@@ -16,12 +16,13 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 ## MODEL GRAPH
 ![image](https://github.com/user-attachments/assets/0e28ab81-2aeb-477b-a13b-d3cad8f52265)
 ## TABLE
-![Delta Modulation](https://github.com/user-attachments/assets/fd39afbf-9485-4fc8-9054-704be5decfde)
+![image](https://github.com/user-attachments/assets/7fa0fe66-1d29-4a24-83fc-e2aadf156685)
+
+
 
 ## OUTPUT GRAPHS
+![WhatsApp Image 2025-05-22 at 15 41 17_d17f2c8f](https://github.com/user-attachments/assets/21c958d7-e2d8-4de3-9962-06fc280e52e4)
 
-![Delta](https://github.com/user-attachments/assets/212cca68-d591-44b8-9e16-85f281dfcb7d)
-![Delta Mod](https://github.com/user-attachments/assets/95068321-7d2b-4178-a8be-1bff353541ab)
 
 ## RESULT 
 
